@@ -7,6 +7,8 @@ const router = express.Router();
 
 const users =[];
 
+//  users array 
+
 // const users = [
 //     {
 //         firstName: "John",
